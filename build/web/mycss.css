@@ -1,0 +1,43 @@
+.footerCenter{
+    text-align:center;
+    background-color: lightgrey;
+    margin-top: 50px;
+    height: 100px;
+}
+
+.formlogin{
+    margin-left: 30%;
+    font-size: 20px;
+}
+
+.formlogin tr{
+    margin-left: 10px;
+}
+
+#fromTo{
+    padding: 9px;
+    margin-left: 30rem;
+    color: grey;
+}
+
+.form table{width:50%;}
+.product {height: auto; margin: 5%;}
+.order { border: 1px solid #cccccc; width:100%; margin: 1%;}
+.order tr:first-child{ width:100%; background-color:#e1eee7 ; color: #006666;}
+.order td{ color:black; width: 15%;}
+.plantimg { width:100px; height: 100px;}
+.shopping { width:70%;}
+
+.product td{
+    padding: 40px;
+    
+}
+.details{
+    text-align: center;
+    
+}
+
+.headDetails{
+    text-align: center;
+    border: 1px solid black;
+}
